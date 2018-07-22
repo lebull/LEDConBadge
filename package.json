@@ -1,0 +1,11 @@
+{
+  "name": "conbadges",
+  "version": "1.0.0",
+  "description": "Automatic building for con badges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
