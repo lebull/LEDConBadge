@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jscad/openjscad": "^1.6.1"
+    "@jscad/openjscad": "^1.6.1",
+    "jimp": "^0.2.28"
   }
 }
